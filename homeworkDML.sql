@@ -1,17 +1,14 @@
 SELECT * FROM  customer;
 
 INSERT INTO customer(
-    customer_id,
-    last_name
+    last_name,
     isOver18
 )
 VALUES(
-    1,
     'Burke',
     true
 ),
 (
-    2,
     'Moore',
     false
 );
