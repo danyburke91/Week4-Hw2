@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://bhphlgqv:5yWjBxTrmI-Qx4U5s5cXJNN99eAQ6FUZ@peanut.db.elephantsql.com/bhphlgqv",
+            "name": "Ecommerce_mockup"
+        }
+    ]
+}
